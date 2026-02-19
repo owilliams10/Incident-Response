@@ -368,4 +368,4 @@ Command: Remove-LocalUser -Name dynamics
 
 ## Conclusion
 
-In this project, we used several different PowerShell techniques, including differential analysis, to identify Indicators of Compromise (IOC) and remove malware from our system. 
+In this project, I used several different PowerShell techniques, including differential analysis, to identify Indicators of Compromise (IOC) and remove malware from a system. 
